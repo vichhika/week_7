@@ -7,4 +7,5 @@ This assiggment is tutorial on git. How to create repo, using git command like g
 using [git](https://git-scm.com/) command to clone this [repo](https://github.com/vichhika/week_7).
 
 ```bash
-git clone https://github.com/vichhika/week_7.git```
+git clone https://github.com/vichhika/week_7.git
+```
